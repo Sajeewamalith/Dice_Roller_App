@@ -8,4 +8,5 @@
 
 
 
-<p align="left">  <img src="https://github.com/Sajeewamalith/Dice_Roller_App/blob/master/dice_roll_demo.gif"  width="320" height="620"/> </p>
+<p align="left">  <img src="https://github.com/Sajeewamalith/Dice_Roller_App/blob/master/dice_roll_demo.gif"  width="320" height="620"/> 
+ <img src="https://github.com/Sajeewamalith/Dice_Roller_App/blob/master/dice_roll.png"  width="320" height="620"/> </p>
