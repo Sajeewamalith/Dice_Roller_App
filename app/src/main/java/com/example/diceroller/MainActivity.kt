@@ -46,8 +46,6 @@ class MainActivity : ComponentActivity() {
 fun DiceRollerApp(){
      DiceWithButtonAndImage(
          modifier = androidx.compose.ui.Modifier
-        // .fillMaxSize()
-        // .wrapContentSize(Alignment.Center)
      )
 }
 
